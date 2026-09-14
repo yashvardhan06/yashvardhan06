@@ -21,7 +21,7 @@ Docker, Kubernetes, Jenkins, GitHub Actions, Ansible
 AWS, Google Cloud Platform
 
 **Operating Systems:**  
-Linux (Ubuntu, Amazon Linux, Fedora, RHEL), Windows
+Linux (Ubuntu, Amazon Linux, Fedora And More), Windows
 
 **Development & Tools:**  
 Git, GitHub, REST APIs, Automation
