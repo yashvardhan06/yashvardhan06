@@ -11,14 +11,20 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-Java, JavaScript, SQL, Bash
+**Languages & Scripting:**  
+Java, JavaScript, Python, SQL, Bash / Shell
 
-**DevOps & Cloud:**  
-Docker, Kubernetes, Jenkins, Ansible, AWS, Google Cloud Platform
+**DevOps & CI/CD:**  
+Docker, Kubernetes, Jenkins, GitHub Actions, Ansible
+
+**Cloud:**  
+AWS, Google Cloud Platform
+
+**Operating Systems:**  
+Linux (Ubuntu, Amazon Linux, Fedora, RHEL), Windows
 
 **Development & Tools:**  
-Git, GitHub, Linux, REST APIs, CI/CD
+Git, GitHub, REST APIs, Automation
 
 ## 🌐 Connect With Me
 
